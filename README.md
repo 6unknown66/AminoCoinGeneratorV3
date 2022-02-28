@@ -23,7 +23,7 @@ Coin generator for amino version 3|Генератор монет для амин
 - pip install tabulate
 - git clone https://github.com/deluvsushi/AminoCoinGeneratorV3
 - cd AminoCoinGeneratorV3.py
-- python AminoCoinGeneratorBo.py
+- python AminoCoinGeneratorV3.py
 ```
 
 ### Windows
